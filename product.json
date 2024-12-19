@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "name": "Celengan Kardus",
+    "image": "/bazaar-unisan/celengan.jpg",
+    "price": 10000,
+    "category": "handicraft"
+  },
+  {
+    "id": 2,
+    "name": "Es Kopyor",
+    "image": "/bazaar-unisan/es_kopyor.jpg",
+    "price": 12000,
+    "category": "minuman"
+  },
+  {
+    "id": 3,
+    "name": "Ice Lumut Coklat",
+    "image": "/bazaar-unisan/ice_lumut_cokelat.jpg",
+    "price": 12000,
+    "category": "minuman"
+  },
+  {
+    "id": 4,
+    "name": "Ice Lumut Strawberry",
+    "image": "/bazaar-unisan/ice_lumut_strawberry.jpg",
+    "price": 12000,
+    "category": "minuman"
+  },
+  {
+    "id": 5,
+    "name": "Rak Buku",
+    "image": "/bazaar-unisan/rak_buku.jpg",
+    "price": 16000,
+    "category": "handicraft"
+  },
+  {
+    "id": 6,
+    "name": "Rak",
+    "image": "/bazaar-unisan/rakngab.jpg",
+    "price": 16000,
+    "category": "handicraft"
+  },
+  {
+    "id": 7,
+    "name": "Saus Sambal Kulit Buah Naga",
+    "image": "/bazaar-unisan/saus_sambal_kulit_buah_naga.jpg",
+    "price": 16000,
+    "category": "makanan"
+  },
+  {
+    "id": 8,
+    "name": "Saus tomat Kulit Buah Naga",
+    "image": "/bazaar-unisan/saus_tomat_kulit_buah_naga.jpg  ",
+    "price": 16000,
+    "category": "makanan"
+  },
+  {
+    "id": 9,
+    "name": "Tahu Kribo",
+    "image": "/bazaar-unisan/tahu_kribo.jpg  ",
+    "price": 16000,
+    "category": "makanan"
+  }
+]
