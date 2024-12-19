@@ -59,7 +59,14 @@
     "id": 9,
     "name": "Tahu Kribo",
     "image": "/bazaar-unisan/tahu_kribo.jpg  ",
-    "price": 16000,
+    "price": 3000,
+    "category": "makanan"
+  },
+  {
+    "id": 10,
+    "name": "Mojito",
+    "image": "/bazaar-unisan/mojito.jpeg  ",
+    "price": 8000,
     "category": "makanan"
   }
 ]
