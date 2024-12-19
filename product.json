@@ -68,5 +68,12 @@
     "image": "/bazaar-unisan/mojito.jpeg  ",
     "price": 8000,
     "category": "makanan"
+  },
+  {
+    "id": 11,
+    "name": "Abon Cakalang",
+    "image": "/bazaar-unisan/abon.jpeg  ",
+    "price": 13000,
+    "category": "makanan"
   }
 ]
